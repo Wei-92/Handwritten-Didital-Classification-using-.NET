@@ -1,0 +1,30 @@
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\DigitClassification.exe.config
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\DigitClassification.exe
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\DigitClassification.pdb
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.dll
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.MachineLearning.dll
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.Math.dll
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.Statistics.dll
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\AForge.dll
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\AForge.Math.dll
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\CsvHelper.dll
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\MLParser.exe
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\MLParser.pdb
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.pdb
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.xml
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.MachineLearning.pdb
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.MachineLearning.xml
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.Math.pdb
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.Math.xml
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.Statistics.pdb
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\Accord.Statistics.xml
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\AForge.xml
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\AForge.Math.xml
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\CsvHelper.pdb
+F:\Machine Learning\DigitClassification\DigitClassification\bin\Debug\CsvHelper.xml
+F:\Machine Learning\DigitClassification\DigitClassification\obj\Debug\DigitClassification.csprojResolveAssemblyReference.cache
+F:\Machine Learning\DigitClassification\DigitClassification\obj\Debug\DigitClassification.exe
+F:\Machine Learning\DigitClassification\DigitClassification\obj\Debug\DigitClassification.pdb
+F:\Machine Learning\Machine Learning Project\53936100-CourseProject\DigitClassification\DigitClassification\bin\Debug\DigitClassification.exe.config
+F:\Machine Learning\Machine Learning Project\53936100-CourseProject\DigitClassification\DigitClassification\obj\Debug\DigitClassification.exe
+F:\Machine Learning\Machine Learning Project\53936100-CourseProject\DigitClassification\DigitClassification\obj\Debug\DigitClassification.pdb

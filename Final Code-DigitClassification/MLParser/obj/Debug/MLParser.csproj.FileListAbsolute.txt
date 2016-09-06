@@ -1,0 +1,9 @@
+F:\Machine Learning\DigitClassification\MLParser\bin\Debug\MLParser.exe.config
+F:\Machine Learning\DigitClassification\MLParser\bin\Debug\MLParser.exe
+F:\Machine Learning\DigitClassification\MLParser\bin\Debug\MLParser.pdb
+F:\Machine Learning\DigitClassification\MLParser\bin\Debug\CsvHelper.dll
+F:\Machine Learning\DigitClassification\MLParser\bin\Debug\CsvHelper.pdb
+F:\Machine Learning\DigitClassification\MLParser\bin\Debug\CsvHelper.xml
+F:\Machine Learning\DigitClassification\MLParser\obj\Debug\MLParser.exe
+F:\Machine Learning\DigitClassification\MLParser\obj\Debug\MLParser.pdb
+F:\Machine Learning\DigitClassification\MLParser\obj\Debug\MLParser.csprojResolveAssemblyReference.cache
